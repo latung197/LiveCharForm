@@ -37,13 +37,8 @@ namespace LiveCharForm
         private void btnclick_Click(object sender, EventArgs e)
         {
 
-
            
         }
 
-        private void chart1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
